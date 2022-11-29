@@ -6,5 +6,3 @@ In future versions of Fleetman we will introduce a full API Gateway...
 
 ㅋㅋ
 ??
-ㅋㅋㅋ
-ff
